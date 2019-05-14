@@ -3,7 +3,7 @@
 
 import telebot,sys
 
-BOT_TOKEN='SEU_TOKEN'
+BOT_TOKEN='899380405:AAGn3WAe_FTe6ISuPp47DpLJk1yv2y9EsOE'
 DESTINATION=sys.argv[1]
 SUBJECT=sys.argv[2]
 MESSAGE=sys.argv[3]
